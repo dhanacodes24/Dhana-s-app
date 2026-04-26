@@ -1,1 +1,6 @@
 print('Flask is used to develope a API')
+print('Added kpi1')
+print('Added kpi2')
+print('Added kpi3')
+print('Added kpi4')
+print('Added kpi5')
